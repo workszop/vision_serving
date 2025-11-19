@@ -1,0 +1,2 @@
+# Treat all .bin files as binary to prevent git from corrupting them with line-ending conversions
+*.bin binary
